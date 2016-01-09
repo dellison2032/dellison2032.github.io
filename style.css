@@ -1,34 +1,42 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
+  font-family: 'andalus', arial, sans-serif;
   font-weight: 300;
-  background-image: url(linedpaper.png);
-  background-repeat: repeat;
-  background-image: url(background.jpg);
+  background-image: url(background5.jpg);
   background-size: cover;
-  border-color: blue;
-  border-style: dotted;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
 }
 h1 {
-	color: red;
-	 /*i have no clue what's going on */
+	color: black;
+  text-align: center;
+  font-style: bold;
+  border: solid;
+  font-family: Lucida Handwriting;
 }
-h4 {
-	color: green;
+p{
+  font-style:italic;
 }
-#summary,p {
-	color: orange;
-	font-style: bold;
-	font-size: 40px;
+
+img {
+  width:250px; 
 }
-.unicorns{
-	color: purple;
+
+.time{
+  color: black;
+  font-size: 30px;
+  font-style: bold;
+  font-family: Lucida Handwriting;
+  border-bottom-style: ridge;
 
 }
-img {
-	width: 200px;
- 
+
+#End {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  font-style: bold;
+  border: none;
+  font-family: Lucida Handwriting;
 }
