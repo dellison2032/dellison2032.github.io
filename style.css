@@ -1,42 +1,58 @@
 body {
-  font-family: 'andalus', arial, sans-serif;
-  font-weight: 300;
-  background-image: url(background5.jpg);
-  background-size: cover;
+  font-family: 'Avenir Next LT Medium', arial, sans-serif;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto 20px auto;
+
+#patagonia {
+  width: 150px;
+  height: 30px;
 }
-h1 {
-	color: black;
+#navbar-header {
+  color:white;
+
+}
+#inside {
+  color:black;
+}
+#hoodie {
+  width:100%;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight:bold;
   text-align: center;
-  font-style: bold;
-  border: solid;
-  font-family: Lucida Handwriting;
-}
-p{
-  font-style:italic;
 }
 
-img {
-  width:250px; 
+h3 {
+text-align: center;
 }
 
-.time{
-  color: black;
-  font-size: 30px;
-  font-style: bold;
-  font-family: Lucida Handwriting;
-  border-bottom-style: ridge;
+.jumbotron{
+     margin-bottom: 0px;
+     background-position: 20% 25%;
+     background-image: url(patagonia2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+.footer{
+  background-color:white;
+  padding: 12px 24px;
 
 }
+h4{
+  font-size: 15px;
 
-#End {
-  color: black;
-  font-size: 30px;
-  text-align: center;
-  font-style: bold;
-  border: none;
-  font-family: Lucida Handwriting;
+}
+h5{
+  font-size: 15px;
+
+}
+.form-control{
+  font-family: Avenir Next LT Medium;
+  font-size: 15px;
+  color:black;
+  border-color:#C0C0C0;
+  font-weight: bold;
 }
