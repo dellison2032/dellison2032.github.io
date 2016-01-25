@@ -10,7 +10,7 @@ $(function() {
     
     // Put your code here. Don't change any other code in this file. You will be sad.
     var markup = "Today: " + data.currently.summary + " - Feels like: "+ data.currently.apparentTemperature + " degrees" 
-    + '&nbsp' + "     Monday: " + data.daily.data[1].summary + " Tuesday: " + data.daily.data[2].summary + " Wednesday: " + data.daily.data[3].summary + " Have an amazing week, and stay warm!";
+    + '&nbsp' + "     Tomorrow: " + data.daily.data[1].summary + " 2nd Day: " + data.daily.data[2].summary + " 3rd Day: " + data.daily.data[3].summary + " Have an amazing week, and stay warm!";
     // End of your code. No, really. Don't change anything below this, or above line 11.
 
 
