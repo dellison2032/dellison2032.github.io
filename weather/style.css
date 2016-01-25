@@ -1,0 +1,34 @@
+  h1{
+    font-family: Castellar; 
+    font-size: 20px;
+    font-style: bold;
+  }
+  .jumbotron {
+  background-image:url("globe3.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:0px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  text-shadow:none;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: white;
+  text-shadow:none;
+}
+
+.weather-report{
+  font-size: 20px;
+}
