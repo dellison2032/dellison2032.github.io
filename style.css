@@ -1,66 +1,50 @@
 body {
-  font-family: 'Avenir Next LT Medium', arial, sans-serif;
+  font-family: 'Gigi', arial, sans-serif;
+  font-size: 20px;
 }
 
-#patagonia {
-  width: 150px;
-  height: 30px;
-}
-#navbar-header {
-  color:white;
-
-}
-#inside {
-  color:black;
-}
-#hoodie {
-  width:100%;
+.navbar-inverse .navbar-brand {
+  font-family: Gigi;
+  font-size: 30px;
+  color: #ff3061;
+  padding-top: 15px;
 }
 
-h2 {
-  font-size: 25px;
-  font-weight:bold;
-  text-align: center;
 }
+#bs-example-navbar-collapse-1 {
+  background-color: white;
 
-h3 {
-text-align: center;
 }
 
 .jumbotron{
-     margin-bottom: 10px;
-     background-position: 20% 25%;
-     background-image: url(patagonia2.jpg);
+    margin-bottom: 10px;
+    background-position: 20% 25%;
+    background-image: url(food2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
+    padding-bottom: 350px;
 }
-#second-jumbo{
-   margin-bottom: 0px;
-     background-position: 50% 50%;
-     background-image: url(skiiers.jpg);
+
+h2 {
+  font-size: 30px;
+  font-weight:bold;
+  text-align: center;
+}
+#second-jumbo {
+    margin-bottom: 10px;
+    background-position: 20% 25%;
+    background-image: url(food4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    
-}
-.footer{
-  background-color:white;
-  padding: 12px 24px;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    padding-bottom: 350px;
 
 }
-h4{
-  font-size: 15px;
+#button-food{
+  font-size: 30px;
+  text-align: center;
+}
 
-}
-h5{
-  font-size: 15px;
-
-}
-.form-control{
-  font-family: Avenir Next LT Medium;
-  font-size: 15px;
-  color:black;
-  border-color:#C0C0C0;
-  font-weight: bold;
-}
