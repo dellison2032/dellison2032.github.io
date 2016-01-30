@@ -21,6 +21,12 @@ img {
 }
 
 h1 {
+  color: green;
+  font-style: bold;
+  font-size: 35px;
+  text-align: center;
+}
+h2{
   font-size: 25px;
   text-align: center;
 }

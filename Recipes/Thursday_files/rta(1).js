@@ -1,1 +1,0 @@
-crtg_content = ''; (function(){document.cookie = 'crtg_zip=' + escape(crtg_content) + '; path=/; expires=Mon, 29 Feb 2016 20:21:35 GMT; domain=joyfulhealthyeats.com';})();
